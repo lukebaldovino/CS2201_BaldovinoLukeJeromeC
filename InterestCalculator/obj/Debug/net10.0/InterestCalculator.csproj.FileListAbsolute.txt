@@ -12,3 +12,4 @@ C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\InterestC
 C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\InterestCalculator\obj\Debug\net10.0\InterestCalculator.pdb
 C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\InterestCalculator\obj\Debug\net10.0\InterestCalculator.genruntimeconfig.cache
 C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\InterestCalculator\obj\Debug\net10.0\ref\InterestCalculator.dll
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\InterestCalculator\obj\Debug\net10.0\InterestCalculator.sourcelink.json

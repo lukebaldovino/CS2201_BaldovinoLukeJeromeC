@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("InterestCalculator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e835ced96d9be8d9e389f9a3462136e7c12d1a3b")]
 [assembly: System.Reflection.AssemblyProductAttribute("InterestCalculator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("InterestCalculator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
