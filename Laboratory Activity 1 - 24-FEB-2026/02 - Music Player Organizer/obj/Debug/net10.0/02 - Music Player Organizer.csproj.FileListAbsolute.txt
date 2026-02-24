@@ -1,0 +1,15 @@
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.exe
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.deps.json
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.runtimeconfig.json
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.dll
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\bin\Debug\net10.0\02 - Music Player Organizer.pdb
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.AssemblyInfoInputs.cache
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.AssemblyInfo.cs
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.csproj.CoreCompileInputs.cache
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.sourcelink.json
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.dll
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\refint\02 - Music Player Organizer.dll
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.pdb
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\02 - Music Player Organizer.genruntimeconfig.cache
+C:\Users\Luke Baldovino\source\school prog\CS2201_BaldovinoLukeJeromeC\Laboratory Activity 1 - 24-FEB-2026\02 - Music Player Organizer\obj\Debug\net10.0\ref\02 - Music Player Organizer.dll
